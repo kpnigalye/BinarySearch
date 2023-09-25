@@ -1,3 +1,7 @@
+// Problem Statment: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+// Time Complexity: O(log n)
+// Approach: Run binary search twice to find first and last position of the element respectively
+
 package Tutorial;
 
 import java.util.Arrays;
